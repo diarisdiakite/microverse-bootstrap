@@ -1,0 +1,8 @@
+in this PR, we:
+- created a project from scratch
+- added the html-css linters files
+- created the different section: header main and footer in div tags with class container
+- added the text and social icons items to the header
+- added the social icons items to the footer
+- added the cards and the form with their respective text to the main content in different div tags
+- styles the text and cards with Bootrap colors
